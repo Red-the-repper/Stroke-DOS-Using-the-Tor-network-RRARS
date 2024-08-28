@@ -4,6 +4,6 @@ And whoever Nasca can collaborate with stars ✌️
 "No system is safe"
 That is why we must test it to the limit..
 To use the tool, clone the repository
-Find the file named " dos-prueba.py " and run it with python
-Example: python dos.py
+Find the file named " Ddos-prueba.py " and run it with python
+Example: python Ddos.py
 ![Screenshot_20240826-072833_2](https://github.com/user-attachments/assets/4de8c90e-0450-438f-852d-0ec06937a0bf)
